@@ -1,4 +1,4 @@
-from gameObject import GameObject
+from src.gameObject import GameObject
 
 class Player(GameObject):
 
